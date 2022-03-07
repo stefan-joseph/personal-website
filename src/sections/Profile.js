@@ -5,8 +5,6 @@ import DarkModeToggle from "../components/DarkModeToggle";
 import Availability from "../components/Availability";
 
 const Profile = ({ darkMode, onDarkMode }) => {
-  const date = moment(new Date()).format("MMM Do");
-
   return (
     <Section>
       <div className="section-one" id="profile">

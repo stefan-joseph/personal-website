@@ -1,12 +1,6 @@
 import styled from "styled-components";
-import { BsSun as Day, BsFillMoonStarsFill as Night } from "react-icons/bs";
 import { MdWbSunny } from "react-icons/md";
-import {
-  BsMoonStarsFill,
-  BsStars,
-  BsMoonFill,
-  BsFillCloudFill,
-} from "react-icons/bs";
+import { BsMoonFill, BsFillCloudFill } from "react-icons/bs";
 import { WiStars } from "react-icons/wi";
 import { HiCloud } from "react-icons/hi";
 

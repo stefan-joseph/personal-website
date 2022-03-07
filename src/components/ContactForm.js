@@ -1,6 +1,5 @@
 import styled from "styled-components";
 
-import { GrSend as Send } from "react-icons/gr";
 const ContactForm = () => {
   return (
     <Section>
@@ -11,10 +10,7 @@ const ContactForm = () => {
           <input type="email" name="email" placeholder="EMAIL" />
           <textarea name="message" rows="8" placeholder="MESSAGE"></textarea>
 
-          <button type="submit">
-            SEND
-            {/* SEND <Send /> */}
-          </button>
+          <button type="submit">SEND</button>
         </form>
       </article>
     </Section>

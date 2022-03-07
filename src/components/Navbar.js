@@ -1,5 +1,4 @@
 import styled from "styled-components";
-import { Link, animateScroll as scroll } from "react-scroll";
 import { VscMenu } from "react-icons/vsc";
 import NavLink from "./NavLink";
 

@@ -1,5 +1,4 @@
 import styled from "styled-components";
-import { Link, animateScroll as scroll } from "react-scroll";
 import DarkModeToggle from "./DarkModeToggle";
 import { VscChromeClose } from "react-icons/vsc";
 import NavLink from "./NavLink";
