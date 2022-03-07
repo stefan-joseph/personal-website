@@ -6,7 +6,7 @@ const Navbar = ({ onShowMenu }) => {
   return (
     <Nav>
       <div className="name-tag">
-        <a>STEFAN JOSEPH</a>
+        <p>STEFAN JOSEPH</p>
       </div>
       <div className="navigation">
         <NavLink title="projects" to="projects" />

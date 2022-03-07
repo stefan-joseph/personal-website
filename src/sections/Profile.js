@@ -1,5 +1,4 @@
 import styled from "styled-components";
-import moment from "moment";
 import Mountains from "../assets/images/mountains.jpeg";
 import DarkModeToggle from "../components/DarkModeToggle";
 import Availability from "../components/Availability";
