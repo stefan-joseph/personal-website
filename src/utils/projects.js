@@ -1,5 +1,4 @@
 import moon from "../assets/images/rocket.jpg";
-import beach from "../assets/images/beach2.jpg";
 import cloud from "../assets/images/cloud.jpg";
 import parkingSpace from "../assets/images/city.jpg";
 import clothing from "../assets/images/clothing.jpg";
