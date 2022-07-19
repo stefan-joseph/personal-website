@@ -7,7 +7,7 @@ const projects = [
   {
     id: 1,
     title: { one: "Ella_Clothing_", two: "ECOMMERCE_APP;" },
-    text: "A full-stack clothing e-commerce application with a UI/UX design implementation. A user can create an account, update their relevant personal information, post reviews of the products, query products in the interactive store and create orders with Stripe Payment Processing.",
+    text: "A full-stack clothing e-commerce application with a UI/UX design implementation and mobile usability. A user can create an account, update their relevant personal information, post reviews of the products, query products in the interactive store and create orders with Stripe Payment Processing.",
     path: "https://ellaclothing.herokuapp.com/",
     img: clothing,
   },
