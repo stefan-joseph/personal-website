@@ -5,7 +5,7 @@ const ContactForm = () => {
     <Section>
       <article>
         <p>Get in touch!</p>
-        <form action="https://formspree.io/f/xknyrklv" method="POST">
+        <form action="https://formspree.io/f/mrgdzkpp" method="POST">
           <input type="text" name="name" placeholder="NAME" />
           <input type="email" name="email" placeholder="EMAIL" />
           <textarea name="message" rows="8" placeholder="MESSAGE"></textarea>

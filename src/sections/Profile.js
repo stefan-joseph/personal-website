@@ -36,11 +36,10 @@ const Profile = ({ darkMode, onDarkMode }) => {
           </div>
         </div>
         <p>
-          I am a full-stack web developer and UI designer based in Canada. In
-          publishing and graphic design, Lorem ipsum is a placeholder text
-          commonly used to demonstrate the visual form of a document or a
-          typeface without relying on meaningful content. Lorem ipsum may be
-          used as a placeholder before the final copy is available.
+          I am a full-stack web developer and UX/UI designer based in Canada. I
+          have worked extensively with Javascript, React, Node.js/Express.js ,
+          HTML and CSS. Currently, I am exploring other technologies like
+          Python, Next.js, Redux and Typescript.
         </p>
       </div>
       <div className="section-three">
