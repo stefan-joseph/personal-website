@@ -36,8 +36,8 @@ const Profile = ({ darkMode, onDarkMode }) => {
           </div>
         </div>
         <p>
-          I am a full-stack web developer and UX/UI designer based in Canada. I
-          have worked extensively with Javascript, React, Node.js/Express.js ,
+          I am a full stack web developer and UX/UI designer based in Canada. I
+          have worked extensively with Javascript, React, Node.js/Express.js,
           HTML and CSS. Currently, I am exploring other technologies like
           Python, Next.js, Redux and Typescript.
         </p>

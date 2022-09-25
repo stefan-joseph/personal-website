@@ -21,11 +21,11 @@ const ContactMe = () => {
           <div className="email">
             <p>E-mail:</p>
             <a
-              href="mailto:someone@yoursite.com"
+              href="mailto:stefanjoseph.dev@gmail.com"
               target="_blank"
               rel="noopener noreferrer"
             >
-              <Email /> stefanjosephdev@gmail.com
+              <Email /> stefanjoseph.dev@gmail.com
             </a>
           </div>
           <div className="github">
